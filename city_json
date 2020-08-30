@@ -1,0 +1,24 @@
+{
+  "cities":{
+          
+         "pune":{
+                 "name":"pune",
+                 "state":"maharashtra",
+                 "population":3,124,458
+ 
+		        },
+         "kolhapur":{
+                 "name":"kolhapur",
+                 "state":"maharashtra",
+                 "population":549,283
+ 
+		        },
+        "satara":{
+                 "name":"satara",
+                 "state":"maharashtra",
+                 "population":549,283
+ 
+		         }
+
+          }
+}
