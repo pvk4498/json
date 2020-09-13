@@ -1,0 +1,32 @@
+ [
+          {
+                 "name":"OM Catering",
+                 "Location":"Pimpri",
+                 "Price":"150/dish"
+ 
+         },
+         {
+
+                 "name":"Shiv Catering Services",
+                 "Location":"svargate",
+                 "Price":"250/dish" 
+         },
+        {
+         
+                 "name":"Annapurna Catering",
+                 "Location":"kothrud",
+                 "Price":"200/dish"
+        },
+        {
+                 
+                 "name":"Kapoor Catering",
+                 "Location":"katraj",
+                 "Price":"150/dish"
+	},
+	{
+                 
+                 "name":"A1 Catering",
+                 "Location":"kothrud",
+                 "Price":"180/dish"
+	}
+]
